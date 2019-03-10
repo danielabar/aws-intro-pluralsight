@@ -1,3 +1,32 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [AWS Developer: The Big Picture](#aws-developer-the-big-picture)
+  - [What is AWS?](#what-is-aws)
+    - [Global Infrastructure](#global-infrastructure)
+    - [How Does AWS Work?](#how-does-aws-work)
+  - [Core Services](#core-services)
+    - [Elastic Cloud Compute (EC2)](#elastic-cloud-compute-ec2)
+      - [Create an instance (AWS Console)](#create-an-instance-aws-console)
+      - [Amazon EC2 Pricing](#amazon-ec2-pricing)
+    - [Simple Storage Service (S3)](#simple-storage-service-s3)
+    - [Relational Database Service (RDS)](#relational-database-service-rds)
+    - [Route53](#route53)
+  - [Enhancing Your App with AWS Databases and Application Services](#enhancing-your-app-with-aws-databases-and-application-services)
+    - [Elastic Beanstalk](#elastic-beanstalk)
+    - [DynamoDB](#dynamodb)
+    - [RedShift](#redshift)
+    - [Virtual Private Cloud](#virtual-private-cloud)
+    - [CloudWatch](#cloudwatch)
+    - [CloudFront](#cloudfront)
+  - [Harnessing the Power of AWS from the Command Line to Code](#harnessing-the-power-of-aws-from-the-command-line-to-code)
+    - [Web Console](#web-console)
+    - [Software Development Kits (SDK)](#software-development-kits-sdk)
+    - [Command Line Interface (CLI)](#command-line-interface-cli)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # AWS Developer: The Big Picture
 
 > My notes from [Pluralsight course](https://app.pluralsight.com/library/courses/aws-developer-big-picture/table-of-contents)
